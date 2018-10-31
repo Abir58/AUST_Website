@@ -1,2 +1,2 @@
 # AUST_Website
-This project was made by using PHP, HTML and CSS. Also used Bootstrap.
+ Just download the files and open the index.html file with your browser.
